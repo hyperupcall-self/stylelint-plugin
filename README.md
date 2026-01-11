@@ -1,3 +1,3 @@
-# stylelint-hyperupcall
+# @hyperupcall/stylelint-plugin
 
-StyleLint plugin for hyperupcall
+Edwin's stylelint plugin.
