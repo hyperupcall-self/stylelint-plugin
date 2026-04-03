@@ -1,2 +1,5 @@
+onlyBuiltDependencies:
+  - unrs-resolver
+
 publicHoistPattern:
-  - 'prettier'
+  - prettier
